@@ -1,3 +1,4 @@
+const { add } = require("./index");
 describe("String Calculator", () => {
   // Test for an empty string
   it("should return 0 for an empty string", () => {
